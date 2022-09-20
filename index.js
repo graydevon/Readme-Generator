@@ -1,5 +1,5 @@
-// TODO: Include packages needed for this application
-
+// TODO: Include packages needed for this application 
+const inquirer = require("inquirer");
 // TODO: Create an array of questions for user input
 const questions = [];
 
@@ -12,4 +12,4 @@ function init() {}
 // Function call to initialize app
 init();
 
-const inquirer = require("inquirer");
+console.log('Hello World')
