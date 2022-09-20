@@ -11,3 +11,5 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+const inquirer = require("inquirer");
