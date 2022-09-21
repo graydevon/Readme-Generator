@@ -76,7 +76,7 @@ This is a application where the user will fill out the prompted questions to gen
   ## **Questions**
   Feel free to ask questions about the following application. 
   
-  [My GitHub Profile](https://github.com/agraydevon)
+  [My GitHub Profile](https://github.com/graydevon)
 
   <br/>
   
